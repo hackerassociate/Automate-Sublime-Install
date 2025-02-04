@@ -40,6 +40,6 @@ This code is licensed under Hacker Associate™. Any unauthorized use, reproduct
 For licensing inquiries, please contact:
 
 🌐 [www.hackerassociate.com](https://www.hackerassociate.com)
-📧 info@hackerassociate.com
+📧 harshadciso@hackerassociate.com
 
 ---
