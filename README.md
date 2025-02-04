@@ -43,3 +43,19 @@ For licensing inquiries, please contact:
 📧 harshadciso@hackerassociate.com
 
 ---
+
+## 🛡️ For Offensive Black Hat Trainings
+
+If you're interested in **Offensive Black Hat Trainings**, check out [Hacker Associate](https://www.hackerassociate.com) for more information and resources.
+
+![Cybersecurity Certifications](https://github.com/hackerassociate/json-analyzer-for-pentester/blob/main/certification.png)
+
+---
+
+## 🆘 Support
+
+If you encounter any issues or have questions, feel free to:
+- 🐛 Open an issue in the repository.
+- 📧 Contact the author via the [Hacker Associate website](https://www.hackerassociate.com).
+
+---
