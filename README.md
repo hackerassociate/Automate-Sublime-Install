@@ -4,7 +4,9 @@ This automation script simplifies the installation process for Sublime Text, sav
 # Sublime Text Installation Script for Ubuntu/Kali
 ### [HackerAssociate](https://hackerassociate.com) | [BlackHatTrainings](https://blackhattrainings.com)
 
-**Author:** Harshad Shah  
+✍️ Author
+Name: Harshad Shah  👤  [ www.hackerassociate.com ] 
+
 **Last Updated:** February 4, 2025
 
 ## Overview
