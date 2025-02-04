@@ -1,6 +1,15 @@
 # Automate-Sublime-Install
 This automation script simplifies the installation process for Sublime Text, saving you time and effort. With just a few steps, you can have Sublime Text installed and ready to use.
 
+## 📸 Screenshots
+
+### Main Interface
+![Main Interface](https://github.com/hackerassociate/json-analyzer-for-pentester/blob/main/json-analyzer-by-harshad.png)
+
+### 🌳 Tree View
+![Tree View](https://github.com/hackerassociate/json-analyzer-for-pentester/blob/main/Tree.png)
+
+
 # Sublime Text Installation Script for Ubuntu/Kali
 ### [HackerAssociate](https://hackerassociate.com) | [BlackHatTrainings](https://blackhattrainings.com)
 
