@@ -22,3 +22,12 @@ This bash script automates the installation of Sublime Text editor on Ubuntu-bas
 - Ubuntu-based operating system
 - Root/sudo privileges
 - Internet connection
+
+## How to Run
+- GIT Clone the repo
+
+```
+chmod +x filename.sh
+bash filename.sh
+```
+
