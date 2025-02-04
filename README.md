@@ -8,7 +8,7 @@ This automation script simplifies the installation process for Sublime Text, sav
 **Last Updated:** February 4, 2025
 
 ## Overview
-This bash script automates the installation of Sublime Text editor on Ubuntu-based systems. The script handles all necessary steps including system updates, dependency installation, repository configuration, and the final installation of Sublime Text.
+This bash script automates the installation of Sublime Text editor on Ubuntu/Kali-based systems. The script handles all necessary steps including system updates, dependency installation, repository configuration, and the final installation of Sublime Text.
 
 ## Features
 - Automated installation process
@@ -19,7 +19,7 @@ This bash script automates the installation of Sublime Text editor on Ubuntu-bas
 - User-friendly status messages
 
 ## Prerequisites
-- Ubuntu-based operating system
+- Ubuntu/Kali-based operating system
 - Root/sudo privileges
 - Internet connection
 
