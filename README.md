@@ -4,10 +4,10 @@ This automation script simplifies the installation process for Sublime Text, sav
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](https://github.com/hackerassociate/json-analyzer-for-pentester/blob/main/json-analyzer-by-harshad.png)
+![Main Interface](https://github.com/hackerassociate/Automate-Sublime-Install/blob/main/Install-Screenshot-1.png)
 
-### 🌳 Tree View
-![Tree View](https://github.com/hackerassociate/json-analyzer-for-pentester/blob/main/Tree.png)
+### 🌳 Screenshot 2 
+![Kali View](https://github.com/hackerassociate/json-analyzer-for-pentester/blob/main/Tree.png)
 
 
 # Sublime Text Installation Script for Ubuntu/Kali
