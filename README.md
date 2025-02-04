@@ -32,4 +32,14 @@ This bash script automates the installation of Sublime Text editor on Ubuntu/Kal
 chmod +x filename.sh
 bash filename.sh
 ```
+---
 
+## 📜 License
+This code is licensed under Hacker Associate™. Any unauthorized use, reproduction, or distribution of this code without explicit written permission from Hacker Associate is strictly prohibited. 
+
+For licensing inquiries, please contact:
+
+🌐 [www.hackerassociate.com](https://www.hackerassociate.com)
+📧 info@hackerassociate.com
+
+---
